@@ -1,4 +1,16 @@
 <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem de Misto Quente</title>
+</head>
+<body>
+    <h1>Delicioso Misto Quente</h1>
+    <!-- Substitua o link abaixo pelo URL da imagem do misto quente -->
+    <img src="https://via.placeholder.com/400x300?text=Misto+Quente" alt="Imagem de um misto quente" width="400" height="300">
+</body>
+</html><!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
